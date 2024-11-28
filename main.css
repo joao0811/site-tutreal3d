@@ -4,6 +4,20 @@
     box-sizing: border-box;
 }
 
+header,
+section h2,
+section h3,
+form button {
+    font-family: "Bungee", sans-serif;
+    font-weight: normal;
+}
+
+body,
+input,
+textarea {
+    font-family: "Roboto", sans-serif;
+}
+
 header {
     padding: 32px 0;
     background-color: rgb(127, 221, 90);
